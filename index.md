@@ -1,5 +1,8 @@
 # Hello 
 
+``` javascript
+var myVar = "Hi!";
+```
 
 I added a word to this file
 
